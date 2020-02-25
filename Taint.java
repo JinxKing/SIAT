@@ -1,6 +1,4 @@
 /*
- * Copyright (c) 2010 The Pennsylvania State University
- * Systems and Internet Infrastructure Security Laboratory
  *
  * Author: Zhe Jin & Yupeng Hu (yphu@hnu.edu.cn)
  *
