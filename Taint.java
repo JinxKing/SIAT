@@ -2,7 +2,7 @@
  * Copyright (c) 2010 The Pennsylvania State University
  * Systems and Internet Infrastructure Security Laboratory
  *
- * Author: William Enck <enck@cse.psu.edu>
+ * Author: Zhe Jin & Yupeng Hu (yphu@hnu.edu.cn)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
