@@ -1,0 +1,1 @@
+python "scripts/droidbox.py"  '../apk/DeviceId_Broadcast1.apk' '../apk/Collector.apk'
