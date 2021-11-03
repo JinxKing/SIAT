@@ -12,6 +12,6 @@ Running the apps in new system "Monitor", you will get the running logs.
 ## Analyzer
 After get the log file, you could use the command to analyze the logs:
 ```
-python detect.py logs_file.txt apk_path
+python analyzer.py logs_file.txt apk_path
 ```
 
