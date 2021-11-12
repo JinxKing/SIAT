@@ -16,5 +16,5 @@ python analyzer.py logs_file.txt apk_path
 ```
 
 ## apk
-We have uploaded some datasets in this folder with a description file.
+In the apk directory，there are some typical apps in our analysis with a description file.
 
